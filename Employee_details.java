@@ -105,3 +105,13 @@ public class Employee_details {
         System.out.println("After 3000 raise: " + e2);
     }
 }
+//__Output__//
+// Before raise: Employee [ID=101, Name=Rudra, Salary=50000.0]
+// After 10% raise: Employee [ID=101, Name=Rudra, Salary=55000.0]
+// After 5000 raise: Employee [ID=101, Name=Rudra, Salary=60000.0]
+
+// Before raise: Employee [ID=102, Name=Aman, Salary=40000.0]
+// After 15% raise: Employee [ID=102, Name=Aman, Salary=46000.0]
+// After 3000 raise: Employee [ID=102, Name=Aman, Salary=49000.0]
+
+
