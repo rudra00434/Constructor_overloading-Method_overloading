@@ -63,3 +63,9 @@ public class Bank  {
         acc2.setBalance(-1000);
     }
 }
+//___Output___//
+// Account Holder: Rudranil, Account Number: 123456, Balance: 5000.0
+// Account Holder: Aman, Account Number: 987654, Balance: 0.0
+// After updating balance: Account Holder: Aman, Account Number: 987654, Balance: 3000.0
+// Balance cannot be negative! Update failed.
+
