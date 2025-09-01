@@ -110,4 +110,10 @@ public class Book_details {
         System.out.println(b2.getBookInfo(true));
     }
 }
+// ______Output_______//
+// Book ID: 101, Title: Operating System by Galvin and jk publisher, Price: 500.0, Discount: 10.0%
+// Book: Operating System by Galvin and jk publisher | Original Price: 500.0 | Discount: 10.0% | Final Price: 450.0
+// Book ID: 102, Title: Python Basics by balagurusamy, Price: 400.0, Discount: 15.0%
+// Book: Python Basics by balagurusamy | Original Price: 400.0 | Discount: 15.0% | Final Price: 340.0
+
 
