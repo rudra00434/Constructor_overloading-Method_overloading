@@ -43,5 +43,10 @@ public class Program_Rectangle {
         System.out.println("Area of square (one-arg constructor): " + r3.getArea());
     }
 }
+//___Code Ouput___//
+// Area of rectangle (no-arg constructor): 0
+// Area of rectangle (two-arg constructor): 200
+// Area of square (one-arg constructor): 100
+
 
 
