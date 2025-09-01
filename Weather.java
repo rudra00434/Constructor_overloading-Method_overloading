@@ -97,3 +97,9 @@ public class Weather {
         System.out.println("WS2 Full Report: " + ws2.reportWeather(true));
     }
 }
+//__Output__//
+// Temperature: 25.5
+// Weather Report -> Location: Kolkata, Temp: 25.5 °C, Humidity: 60%
+//Temperature: 18.2
+// Weather Report -> Location: Delhi, Temp: 18.2 °C, Humidity: 40%
+
