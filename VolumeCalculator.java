@@ -31,5 +31,10 @@ public class VolumeCalculator {
         System.out.println("Volume of Cuboid (l=5, b=6, h=7): " + cuboid);
     }
 }
+//___Code Output___//
+// Volume of Sphere (r=7): 1437.3333333333333
+// Volume of Cylinder (h=10, r=7): 1540.0
+// Volume of Cuboid (l=5, b=6, h=7): 210.0
+
 
 
